@@ -1,0 +1,5 @@
+bs_user:
+    resource: "@BSUserBundle/Resources/config/routing.yml"
+    prefix:   /
+
+
