@@ -287,3 +287,7 @@ c5c45d,::1,GET,http://localhost/Exo/web/app_dev.php/,1415754140,aa2e7a
 aa2e7a,::1,GET,http://localhost/Exo/web/app_dev.php/,1415754140,
 a8f72d,::1,GET,http://localhost/Exo/web/app_dev.php/,1415754199,
 5cc40f,::1,GET,http://localhost/Exo/web/app_dev.php/,1415754212,
+c781e8,::1,GET,http://localhost/Exo/web/app_dev.php/,1415754810,
+9b4a6a,::1,GET,http://localhost/Exo/web/app_dev.php/login,1415754813,
+10199c,::1,GET,http://localhost/Exo/web/app_dev.php/upload,1415755128,
+c8d2c9,::1,GET,http://localhost/Exo/web/app_dev.php/login,1415755129,
